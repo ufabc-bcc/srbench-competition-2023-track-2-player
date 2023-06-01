@@ -1,0 +1,59 @@
+Source: https://www.kaggle.com/gokulmahendran/montreal-bike-lane-prediction-with-weather/data?select=comptagesvelo2015.csv 
+
+MontrealBikeLane.csv:
+
+Date - date when data was collected
+Time - dummy variable, can be disconsidered
+
+Counts of bikes in that specific day in bike lanes:
+Berri1
+Boyer
+Brébeuf
+CSC (Côte Sainte-Catherine)
+Maisonneuve_1
+Maisonneuve_2
+Maisonneuve_3
+Notre-Dame
+Parc
+Parc U-Zelt Test
+PierDup
+Pont_Jacques_Cartier
+Rachel / Hôtel de Ville
+Rachel / Papineau
+René-Lévesque
+Saint-Antoine
+Saint-Laurent U-Zelt Test
+Saint-Urbain
+Totem_Laurier
+University
+Viger
+
+WeatherInfo.csv:
+
+Date/Time
+Year
+Month
+Day
+Data Quality
+Max Temp (°C)
+Max Temp Flag
+Min Temp (°C)
+Min Temp Flag
+Mean Temp (°C)
+Mean Temp Flag
+Heat Deg Days (°C)
+Heat Deg Days Flag
+Cool Deg Days (°C)
+Cool Deg Days Flag
+Total Rain (mm)
+Total Rain Flag
+Total Snow (cm)
+Total Snow Flag
+Total Precip (mm)
+Total Precip Flag
+Snow on Grnd (cm)
+Snow on Grnd Flag
+Dir of Max Gust (10s deg)
+Dir of Max Gust Flag
+Spd of Max Gust (km/h)
+Spd of Max Gust Flag

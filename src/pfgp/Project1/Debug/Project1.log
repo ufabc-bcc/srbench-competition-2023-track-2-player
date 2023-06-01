@@ -1,0 +1,26 @@
+﻿  cppmine.cpp
+  DataInOut.cpp
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\DataInOut.cpp(40,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\DataInOut.cpp(73,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\DataInOut.cpp(90,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\DataInOut.cpp(101,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\DataInOut.cpp(102,24): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(89,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(89,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(153,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(153,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(191,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(191,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(259,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(259,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(435,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(480,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(492,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(492,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(572,31): warning C4101: “r5”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(572,27): warning C4101: “r4”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(572,23): warning C4101: “r3”: 未引用的局部变量
+  mine.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\user\Desktop\gecco 4\pfgp\Debug\Project1.exe

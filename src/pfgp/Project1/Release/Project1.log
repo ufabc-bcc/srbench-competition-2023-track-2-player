@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(89,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(89,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(153,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(153,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(191,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(191,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(259,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(259,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(435,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(480,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(492,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(492,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(572,31): warning C4101: “r5”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(572,27): warning C4101: “r4”: 未引用的局部变量
+C:\Users\user\Desktop\gecco 4\pfgp\Project1\main.cpp(572,23): warning C4101: “r3”: 未引用的局部变量
+  正在生成代码
+  3 of 482 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\user\Desktop\gecco 4\pfgp\Release\Project1.exe
